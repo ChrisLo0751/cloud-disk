@@ -1,0 +1,12 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Compiled protobuf files
+*.pb.go
+
+# Editor and IDE files
+.idea/
+.vscode/
